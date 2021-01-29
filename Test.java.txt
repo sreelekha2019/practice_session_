@@ -1,0 +1,6 @@
+Public class test{
+
+  Public void test01(){
+ }
+
+}
