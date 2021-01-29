@@ -1,0 +1,11 @@
+Public class demo{
+
+Public void doprocess(){
+   
+  //Logic goes here
+
+ }
+
+}
+
+
